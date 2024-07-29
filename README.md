@@ -37,6 +37,7 @@ This SomaaliTrip project is a final assignment for your 6th-semester studies. It
 - **React**
 - **Tailwind CSS**
 - **React Router**
+- **react-scroll**
 - **React Icons**
 
 @copyright

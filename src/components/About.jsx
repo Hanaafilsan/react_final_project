@@ -1,7 +1,7 @@
 import React from "react";
 import img from "../assets/img/about.jpg";
 import Button from "../layouts/Button";
-
+import { Link } from "react-scroll";
 
 const About = () => {
   const backgroundColor = `bg-white`;

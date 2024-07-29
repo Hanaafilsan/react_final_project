@@ -7,7 +7,7 @@ This SomaaliTrip project is a final assignment for your 6th-semester studies. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SomaaliTrip.git
+   git clone https://github.com/Hanaafilsan/react_final_project
    ```
 
 2. Navigate to the project directory:

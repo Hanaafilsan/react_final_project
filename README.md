@@ -13,7 +13,7 @@ This SomaaliTrip project is a final assignment for your 6th-semester studies. It
 2. Navigate to the project directory:
 
    ```bash
-   cd SomaaliTrip
+   cd tour-and-travel-web
    ```
 
 3. Install the dependencies:
@@ -25,7 +25,7 @@ This SomaaliTrip project is a final assignment for your 6th-semester studies. It
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    

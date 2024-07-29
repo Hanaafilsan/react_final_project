@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "../layouts/Button";
 import img from "../assets/img/hero.jpg";
-import { Link } from "react-scroll";
+
 
 const Home = () => {
   const backgroundColor = `bg-brightColor`;

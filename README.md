@@ -30,7 +30,7 @@ This SomaaliTrip project is a final assignment for your 6th-semester studies. It
 
    
    
-   The application is available online: https://66a7f9a811e7ee6cd17a0b36--bespoke-begonia-a71394.netlify.app/
+   The application is available online:https://66a8d6ff87798a008d5c404a--loquacious-phoenix-986498.netlify.app/
 
 ## Technologies Used
 

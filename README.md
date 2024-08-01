@@ -1,6 +1,6 @@
 # SomaaliTrip - Tour and Travel Web
 
-This SomaaliTrip project is a final assignment for your 6th-semester studies. It showcases my proficiency in React, Tailwind CSS, and web development practices. The project aims to demonstrate my ability to create a functional and visually appealing tour and travel web application.
+This SomaaliTrip project is a final assignment for my 6th-semester studies. It showcases my proficiency in React, Tailwind CSS, and web development practices. The project aims to demonstrate my ability to create a functional and visually appealing tour and travel web application.
 
 ## Installation
 
